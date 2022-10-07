@@ -4,7 +4,7 @@
 
 ## Animation of the Website
 
-![image](https://github.com/SkyCooper/CodingChallange/blob/main/coding.gif)
+![image](./practise.gif)
 
 ## Visualization of the Website
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-Practises abaout CSS skills
+Practises about CSS skills
 ## Project Skeleton 
 
 |----CSS Practises
@@ -26,6 +26,7 @@ Practises abaout CSS skills
         |----Side Menu
         |----Recap Practise
         |----images
+        |----practise.gif
         |----index.html
         |----style.css
         |----readme.md 
